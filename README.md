@@ -18,7 +18,7 @@
     Soy Javier Veloso, <b>Recientemente egresado</b> del Instituto Profesional <a href="https://portal.inacap.cl"> <b>INACAP</b>, Sede Talca</a>. <br>
     Con interés en seguir desarrollando y fortaleciendo mis habilidades en la creación de sistemas utilizando tecnologías modernas y seguras como <b>TypeScript, React, Next.js.</b>
     <br>
-    Actualmente me encuentro en camino a convertirme en<b> Desarrollaro Full-Satck</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    Actualmente me encuentro en camino a convertirme en<b> Desarrollar Full-Satck</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
     enfocado en construir aplicaciones eficientes, escalables y bien estructuradas.
     <br>
   </em> 
